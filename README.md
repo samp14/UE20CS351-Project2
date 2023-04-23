@@ -3,7 +3,7 @@ Microservice Communication Using RabbitMQ
 
 Team Members-
 
-Sampreeth Nadig(PES1UG20CS371)
-Sanath Sreekanth K (PES1UG20CS373)
-Sankalp Kundu (PES1UG20CS383)
-Shamith V S (PES1UG20CS390)
+1) Sampreeth Nadig (PES1UG20CS371)
+2) Sanath Sreekanth K (PES1UG20CS373)
+3) Sankalp Kundu (PES1UG20CS383)
+4) Shamith V S (PES1UG20CS390)
